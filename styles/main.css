@@ -189,4 +189,10 @@ li{
         border-left: none;
         padding-left: 0;
     }
+    #socials--list a{
+        color:var(--mainLinkColor);
+    }
+    #socials--list a:hover{
+        color: var(--mainTextColor);
+    }
 }
