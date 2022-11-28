@@ -102,14 +102,15 @@ li{
     justify-content: space-between;
     column-gap: 1em;
     flex-wrap: wrap;
-    margin-top: 0.2rem;
-    margin-bottom: 0.2rem;
+
 }
 
 #socials--list a{
     font-size: 0.9em;
     color:var(--secondaryTextColor);
     transition: 0.3s;
+    margin-top: 0.2rem;
+    margin-bottom: 0.2rem;
 }
 
 #socials--list a:hover{
